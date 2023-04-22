@@ -1,1 +1,5 @@
-git sync working
+g
+
+Git mobile
+
+it sync worki
